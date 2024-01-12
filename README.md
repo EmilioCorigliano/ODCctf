@@ -1,1 +1,1 @@
-# ODCctf
+alert(1)
