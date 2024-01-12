@@ -1,1 +1,3 @@
-window.addEventListener("load", function() { alert("hello!");});
+<script>
+alert(1);
+  </script>
