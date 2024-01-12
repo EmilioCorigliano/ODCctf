@@ -1,1 +1,1 @@
-<p>funzionah</p>
+alert(1)
